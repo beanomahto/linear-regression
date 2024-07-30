@@ -1,4 +1,4 @@
-Linear regression
+<em><u>Linear regression</em></u>
 
 Steps to run the code
 1. download the zip folder(linear-regression)and unzip it.
